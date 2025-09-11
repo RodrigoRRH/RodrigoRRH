@@ -1,15 +1,22 @@
-# Hello! I'm Rodrigo! Full Stack Developer
+# Hello! I'm Rodrigo! Full Stack Developer | WordPress Specialist | Tourism Tech Enthusiast
 
-## About me
-Hello! I am a passionate Full Stack developer with a strong focus on JavaScript and Python. My journey in the world of technology began with a fascination for creating solutions that not only work efficiently but also provide a compelling user experience.
+## 🚀 About me
+I am a passionate **Full Stack Developer** with a background in **Systems Engineering** and strong experience building **digital solutions for the tourism industry in Peru**.  
 
-## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+My focus is on **JavaScript (React & Node.js)**, but I also specialize in **WordPress (Elementor & Oxygen)** for building fast, SEO-friendly websites. I love transforming ideas into **scalable, optimized, and user-friendly applications** — from dynamic booking systems to interactive components that improve the travel experience online.  
 
-## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
-## Technologies
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+## 🛠 Skills & Technologies
+- **Languages**: Python, JavaScript (React, Node.js, Express), PHP, C#  
+- **Web Development**: WordPress, Elementor, Oxygen, HTML5, CSS3, Tailwind  
+- **Databases**: MySQL, SQL Server, MongoDB  
+- **Back-End**: API integration, RESTful services, dynamic content management  
+- **Front-End**: Interactive UI, responsive design, reusable components  
+- **Other**: SEO optimization, performance tuning, UX for tourism websites  
+
+## 🤝 Let’s Connect
+I’m always open to new collaborations, especially in **travel tech, web optimization, and scalable full stack projects**.  
+Let’s create solutions that not only work — but truly inspire users. 
+
+📩 https://www.linkedin.com/in/rudy-rodrigo-rodriguez-hancco/ | rudy311013@gmail.com | +51 957 733 643
 
