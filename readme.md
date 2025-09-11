@@ -3,8 +3,7 @@
 ## 🚀 About me
 I am a passionate **Full Stack Developer** with a background in **Systems Engineering** and strong experience building **digital solutions for the tourism industry in Peru**.  
 
-My focus is on **JavaScript (React & Node.js)**, but I also specialize in **WordPress (Elementor & Oxygen)** for building fast, SEO-friendly websites. I love transforming ideas into **scalable, optimized, and user-friendly applications** — from dynamic booking systems to interactive components that improve the travel experience online.  
-
+I also specialize in WordPress (Elementor & Oxygen) for building fast, SEO-friendly websites. I love transforming ideas into scalable, optimized, and user-friendly applications — from dynamic booking systems to interactive components that improve the travel experience online.
 
 ## 🛠 Skills & Technologies
 - **Languages**: Python, JavaScript (React, Node.js, Express, TypeScript), PHP, C#  
