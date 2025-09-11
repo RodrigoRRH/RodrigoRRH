@@ -8,7 +8,7 @@ My focus is on **JavaScript (React & Node.js)**, but I also specialize in **Word
 
 ## 🛠 Skills & Technologies
 - **Languages**: Python, JavaScript (React, Node.js, Express, TypeScript), PHP, C#  
-- **Web Development**: WordPress, Elementor, Oxygen, HTML5, CSS  
+- **Web Development**: WordPress, Elementor, Oxygen, HTML, CSS  
 - **Databases**: MySQL, SQL Server  
 - **Other**: SEO optimization, performance tuning, UX for tourism websites  
 
