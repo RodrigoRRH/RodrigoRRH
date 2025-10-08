@@ -6,7 +6,7 @@ I am a passionate **Full Stack Developer** with a background in **Systems Engine
 I also specialize in WordPress (Elementor & Oxygen) for building fast, SEO-friendly websites. I love transforming ideas into scalable, optimized, and user-friendly applications — from dynamic booking systems to interactive components that improve the travel experience online.
 
 ## 🛠 Skills & Technologies
-- **Languages**: Python, JavaScript (React, Node.js, Express, TypeScript), PHP, C#  
+- **Languages**: Python, JavaScript, PHP, C#  
 - **Web Development**: WordPress, Elementor, Oxygen, HTML, CSS  
 - **Databases**: MySQL, SQL Server  
 - **Other**: SEO optimization, performance tuning, UX for tourism websites  
